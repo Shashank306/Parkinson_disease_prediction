@@ -25,4 +25,4 @@ So here we have used 5 different ML Algorithms these are Logistic Regression, Na
 <li> test-train size: 20-80 and random states: 0, 10, 47
 <li> test-train size: 15-85 and random states: 0, 10, 47
 
-Random State:- 
+Random State:- It controls the shuffling applied to the data before applying the split.
